@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mis tareas</string>
+    <string name="widget_desc">Tus tareas pendientes en la pantalla de inicio</string>
+
+    <string-array name="widget_colors">
+        <item>Oscuro</item>
+        <item>Claro</item>
+        <item>Azul</item>
+        <item>Verde</item>
+        <item>Morado</item>
+    </string-array>
+
+    <string-array name="widget_sizes">
+        <item>Chica</item>
+        <item>Mediana</item>
+        <item>Grande</item>
+    </string-array>
+
+    <string-array name="widget_filters">
+        <item>Todas las pendientes</item>
+        <item>Solo hoy y atrasadas</item>
+    </string-array>
+</resources>
